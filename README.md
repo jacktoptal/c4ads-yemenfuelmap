@@ -3,7 +3,7 @@
 ## About
 The interactive map shows fuel shipment route with Yemen from other countires. The data is time series data, and added the playable timeline.
 
-![Bagel](https://github.com/jacktoptal/interactive-fuel-map/blob/master/screenshots/deckgl.JPG)
+![Bagel](https://github.com/jacktoptal/c4ads-yemenfuelmap/blob/master/screenshots/deckgl.JPG)
 
 
 View the project
